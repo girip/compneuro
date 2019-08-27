@@ -5,3 +5,9 @@
 #+bibliography:~/org/articles/zbigbibfile.bib
 #+PROPERTY:header-args :results output :comments org :exports both
 
+
+* Class [[file:/docs/syllabus.html][syllabus]] as [[file:docs/syllabus.pdf][pdf]] 
+
+* Class slides
+
+* Notes
