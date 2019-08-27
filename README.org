@@ -1,0 +1,7 @@
+#+TITLE:Computational Neuroscience Course
+#+STARTUP: overview
+#+STARTUP: inlineimages, hidestars
+#+STARTUP: indent,  entitiespretty
+#+bibliography:~/org/articles/zbigbibfile.bib
+#+PROPERTY:header-args :results output :comments org :exports both
+
