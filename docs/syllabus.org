@@ -1,0 +1,47 @@
+* Syllabus
+** Description
+This course provides an introduction to basic computational models of neurons and networks of neurons. We will explore the computational models of spiking neurons, synapses and networks in the framework of dynamical systems theory. The course will provide general introduction to computational models and neural algorithms that are known for sensory, motor and memory processes. We will make use of Matlab/Python demonstrations and exercises to gain a deeper understanding of concepts and methods introduced in the course. 
+
+** Areas covered
+1. Models of single neurons
+2. Models of synapse and learning
+3. Neural code
+4. Computing with spiking networks
+
+** Grading Policy
+Grades will be calculated according to the following weighting system.
+Homework (15%), Quiz (5%), Midterm (20%), Final Project (40%), Presentation and final Exam on the project (20%) 
+
+** Project Assignment: Develop Your Own Computational Model
+The project can be carried out in small teams. A list of possible projects will be made, but students are welcome and encouraged to come up with a proposal. Students will present the project proposal around the midterm and should include: a. background on a particular theoretical/computational problem in neuroscience / AI b. plan for building computational model.
+Final project should include working version of solution to the problem and analysis of why the solution works.
+
+** Computational tools
+- Neuron - https://www.neuron.yale.edu/neuron/
+- Brian - http://briansimulator.org
+
+- Nest - https://www.nest-simulator.org
+
+- Additional tools more related to AI/ML
+  - https://www.nengo.ai
+  - https://github.com/Hananel-Hazan/bindsnet
+
+** Books 
+
+- Neuronal Dynamics (Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski). Available at (http://neuronaldynamics.epfl.ch)
+
+- Theoretical Neuroscience (Dayan & Abbott). 
+
+- Nonlinear Dynamics and Chaos (Strogatz). A very readable primer on applied differential equations.
+
+*** Additional resources
+- Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting by Eugene M Izhikevich
+
+- Elements of Applied Bifurcation Theory (Kuznetsov). An advanced mathematical book on bifurcation theory.
+
+
+
+** Class Handouts
+
+Class slides and some additional notes will be posted in website or in compass.
+

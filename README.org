@@ -6,8 +6,8 @@
 #+PROPERTY:header-args :results output :comments org :exports both
 
 
-* Class [[file:/docs/syllabus.html][syllabus]] as [[file:docs/syllabus.pdf][pdf]] 
+** Class [[file:/docs/syllabus.org][syllabus]] as [[file:docs/syllabus.pdf][pdf]] 
 
-* Class slides
+** Class slides
 
-* Notes
+** Notes
